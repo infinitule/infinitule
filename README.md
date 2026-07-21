@@ -1,6 +1,6 @@
 ### Dossier
 
-<img width="460" height="340" alt="Achievement Badges-selection" src="https://github.com/user-attachments/assets/dba9cba1-4075-42bd-b1c2-1cea60cd31cd" />
+<img width="920" height="340" alt="Achievement Badges-selection" src="https://github.com/user-attachments/assets/01313358-2c1f-4360-a4d6-a3f2a446c9da" />
 
 | Licence to Commit | Ghost Protocol | The Fixer | Omertà |
 |:--:|:--:|:--:|:--:|
