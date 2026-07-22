@@ -1,7 +1,5 @@
+
 ### Dossier
 
-<img width="920" height="340" alt="Achievement Badges-selection" src="https://github.com/user-attachments/assets/01313358-2c1f-4360-a4d6-a3f2a446c9da" />
+<img width="2960" height="1440" alt="achievement-badges" src="https://github.com/user-attachments/assets/2b915b3e-6995-4d95-ba31-e29804418bce" />
 
-| Licence to Commit | Ghost Protocol | The Fixer | Omertà |
-|:--:|:--:|:--:|:--:|
-| force-push, no questions | no trace in the logs | closed the issue quietly | zero commit messages |
